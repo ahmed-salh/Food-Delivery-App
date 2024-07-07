@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977138368271",
+    "project_id": "universityprojects-eedf6",
+    "storage_bucket": "universityprojects-eedf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977138368271:android:0359bcaafb1ef67a44c87a",
+        "android_client_info": {
+          "package_name": "com.Youssef.DeliveryApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqsjd7SUN9aHNFS4h9SzB6Yhim1TYSd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
